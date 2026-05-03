@@ -15,7 +15,7 @@
 
 **Inspired by [Stock-Prediction-using-Transformer-NN](https://github.com/Stepka/Stock-Prediction-usning-Transformer-NN)**
 
-**Google Colab [link](https://colab.research.google.com/drive/1wk49JwMQIEc2hAYxV_7UPdh-S_pgIdUI?usp=sharing)
+**Google Colab [link](https://colab.research.google.com/drive/1wk49JwMQIEc2hAYxV_7UPdh-S_pgIdUI?usp=sharing)**
 
 </div>
 
